@@ -1,0 +1,9 @@
+com/demo/model/PerDayRent.class
+com/demo/config/RentalCarConfiguration.class
+com/demo/model/RentalCount.class
+com/demo/model/MetaData.class
+com/demo/model/CarCollection.class
+com/demo/model/Metrics.class
+com/demo/service/RentalCarService.class
+com/demo/RentalCarApplication.class
+com/demo/model/Car.class
